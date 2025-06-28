@@ -10,4 +10,4 @@ Ethical hacking, also known as "white-hat" hacking, involves legally breaking in
 Ethical hackers simulate cyberattacks using the same techniques as black-hat hackers, such as exploiting software bugs, insecure configurations, or weak passwords. Once vulnerabilities are found, they report them to the organization, often with recommendations on how to fix or improve the security posture.
 
 - **[Basic of ethical hacking]():** you learn about Basic of ethical hacking.
-- **[Types of cyber attacks]():** you learn about types of cyber attacks.
+- **[Types of cyber attacks](https://github.com/sherazi1214/Types-of-cyber-attacks):** you learn about types of cyber attacks.
