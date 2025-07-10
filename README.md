@@ -11,4 +11,4 @@ Ethical hackers simulate cyberattacks using the same techniques as black-hat hac
 
 - **[Basic of ethical hacking](https://github.com/sherazi1214/Basic-of-ethical-hacking):** you learn about Basic of ethical hacking.
 - **[Types of cyber attacks](https://github.com/sherazi1214/Types-of-cyber-attacks):** you learn about types of cyber attacks and attackers.
-- **[phases of ethical hacking]():** you learn about types of phases of ethical hacking.
+- **[phases of ethical hacking](https://github.com/sherazi1214/phases-of-ethical-hacking/blob/main/README.md):** you learn about types of phases of ethical hacking.
